@@ -15,3 +15,6 @@
 * [A Gentle Introduction to the Gradient Boosting Algorithm for Machine Learning](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
 * [Gradient Boosting In Classification: Not a Black Box Anymore!](https://blog.paperspace.com/gradient-boosting-for-classification/)
 * [Greedy Function Approximation: A Gradient Boosting Machine](https://jerryfriedman.su.domains/ftp/trebst.pdf)
+* [Drift in Machine Learning](https://towardsdatascience.com/drift-in-machine-learning-e49df46803a)
+* [Data Drift vs. Concept Drift: What Are the Main Differences?](https://deepchecks.com/data-drift-vs-concept-drift-what-are-the-main-differences/)
+* [Why You Should Care About Data and Concept Drift](https://evidentlyai.com/blog/machine-learning-monitoring-data-and-concept-drift)
